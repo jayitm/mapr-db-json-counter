@@ -1,2 +1,9 @@
 # mapr-db-json-counter
-Simple Row Counter for MapR-DB JSON using Spark and Java App
+MapR-DB Table Row Counter using Spark
+
+The Row counter implmented using : 
+
+1. Java Program
+2. Scala Program
+
+
